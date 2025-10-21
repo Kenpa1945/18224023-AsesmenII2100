@@ -10,3 +10,11 @@ A (true) story for my teachers [Sang Mahaguru, Sang Mahaputera](<https://azrl.wo
 
 Teasing story
 {{< video https://www.youtube.com/watch?v=Dg_4PbBlBf4 >}}
+
+Pernah nggak sih ngerasa udah nyoba sebaik mungkin, tapi hasilnya tetap nggak sesuai harapan? Saya sering banget. Dulu saya mikir kalau gagal berarti saya nggak cukup pintar atau nggak berbakat. Tapi makin ke sini, saya sadar kalau gagal itu bukan akhir, cuma bagian dari proses yang memang harus dilewati — kayak latihan jatuh biar nanti bisa lari lebih jauh.
+
+Saya pernah ngalamin masa di mana saya hampir nyerah waktu belajar ngoding. Error di mana-mana, laptop hang, dan kadang hasilnya nggak sesuai ekspektasi. Tapi anehnya, tiap kali berhasil benerin satu kesalahan, rasanya kayak dapet pencapaian besar. Dari situ saya mulai ngerti: kadang kita nggak butuh hasil besar, cukup kemajuan kecil yang bikin kita terus jalan.
+
+Sekarang, tiap kali lagi mentok, saya coba tenang dulu, tarik napas, terus lanjut pelan-pelan. Saya belajar kalau nggak apa-apa lambat, yang penting nggak berhenti. Hidup itu kayak debugging — perlu sabar, fokus, dan kadang butuh waktu sebelum semuanya bisa jalan seperti seharusnya.
+
+Jadi, kalau kamu lagi ngerasa gagal, mungkin kamu cuma lagi di “baris kode” yang belum selesai. Tinggal terusin aja, pelan-pelan, karena hasilnya bakal muncul di waktu yang pas.
