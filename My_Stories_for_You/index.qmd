@@ -1,20 +1,19 @@
 # UTS-3 My Stories for You
 
-A story about my oldest daughter [Gaun Pemngantin Gladys](<https://azrl.wordpress.com/2020/07/18/gaun-pengantin-gladys/#comment-28004>)
+**Pelan Tapi Pasti**
 
-A message to my daughter [The Child Who Learned to Walk at the Disneyland](<https://azrl.wordpress.com/2021/10/06/the-child-who-learned-to-walk-at-the-disneyland/>)
+Terkadang saya iri melihat orang yang bisa cepat paham, cepat beradaptasi.
+Sementara saya termasuk tipe yang pelan: mikir dulu sebelum bergerak, belajar dulu sebelum mencoba, dan butuh waktu sebelum yakin.Dulu saya sempat merasa itu adalah suatu kelemahan. Tapi lama-lama saya sadar, setiap orang punya ritme masing-masing, dan gak semua hal bagus itu harus cepat.
 
-A story for my students [Fly Eagle Fly](<https://azrl.wordpress.com/2008/04/21/fly-my-eagle-fly/>)
+Ada satu pengalaman yang bikin saya benar-benar paham hal itu.
+Waktu ikut hackathon bareng teman-teman, awalnya saya agak minder.
+Saya bukan yang paling jago ngoding, bukan yang paling vokal di tim, dan kadang malah merasa tidak berkontribusi banyak.
 
-A (true) story for my teachers [Sang Mahaguru, Sang Mahaputera](<https://azrl.wordpress.com/2012/11/28/perginya-sang-mahaputera-dan-mahaguru-berkemeja-putih/)
+Tapi saat proyek mulai berantakan karena semua pengin ide mereka dipakai, saya mulai bantu dari hal kecil seperti menyusun alur kerja, desain tampilan. Lambat laun, tim mulai bisa sinkron lagi.
+Bukan karena saya tiba-tiba jadi pemimpin, tapi karena saya berusaha tenang dan bantu secukupnya di bagian yang bisa saya tangani.
 
-Teasing story
-{{< video https://www.youtube.com/watch?v=Dg_4PbBlBf4 >}}
-
-Pernah nggak sih ngerasa udah nyoba sebaik mungkin, tapi hasilnya tetap nggak sesuai harapan? Saya sering banget. Dulu saya mikir kalau gagal berarti saya nggak cukup pintar atau nggak berbakat. Tapi makin ke sini, saya sadar kalau gagal itu bukan akhir, cuma bagian dari proses yang memang harus dilewati — kayak latihan jatuh biar nanti bisa lari lebih jauh.
-
-Saya pernah ngalamin masa di mana saya hampir nyerah waktu belajar ngoding. Error di mana-mana, laptop hang, dan kadang hasilnya nggak sesuai ekspektasi. Tapi anehnya, tiap kali berhasil benerin satu kesalahan, rasanya kayak dapet pencapaian besar. Dari situ saya mulai ngerti: kadang kita nggak butuh hasil besar, cukup kemajuan kecil yang bikin kita terus jalan.
-
-Sekarang, tiap kali lagi mentok, saya coba tenang dulu, tarik napas, terus lanjut pelan-pelan. Saya belajar kalau nggak apa-apa lambat, yang penting nggak berhenti. Hidup itu kayak debugging — perlu sabar, fokus, dan kadang butuh waktu sebelum semuanya bisa jalan seperti seharusnya.
-
-Jadi, kalau kamu lagi ngerasa gagal, mungkin kamu cuma lagi di “baris kode” yang belum selesai. Tinggal terusin aja, pelan-pelan, karena hasilnya bakal muncul di waktu yang pas.
+Dari situ saya belajar bahwa kecepatan itu penting, tapi ketenangan juga kekuatan.
+Saya mungkin gak selalu yang pertama, tapi saya ingin jadi orang yang bisa diandalkan di tengah kekacauan — orang yang bantu tim tetap jalan dengan cara yang sederhana tapi berarti.
+Itu juga yang ingin saya bawa ke hidup saya sekarang: terus belajar, bantu orang lain semampu saya, dan percaya bahwa langkah kecil yang konsisten bisa membawa perubahan yang besar.
+Sekarang, setiap kali saya mulai merasa tertinggal, saya ingat satu hal:
+tidak apa-apa pelan, asalkan terus maju.
