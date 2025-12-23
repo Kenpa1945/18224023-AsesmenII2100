@@ -1,7 +1,74 @@
-## UAS-4 My Knowledge
+## UAS-4 My Knowledge: Pengetahuan tentang Sistem Informasi dan Produktivitas Manusia
 
-Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain
-1) saya tulis [makalah sebagai bahan utama](Rekomendasi%20Presentasi%20Efektif(Contoh%20Makalah).pdf)
-2) lalu saya buat [transkrip ucapan lisan](Contoh%20Transkrip%20Presentasi.pdf)
-3) kemudian saya kembangkan [slide pendukung trnsskrip](Rekomendasi%20Presentasi%20(Contoh%20Slides).pdf)
-4) lalu saya memproduksivideo audio visual {{< video https://youtu.be/ZbghfMvnPZc>}} {{< video https://youtu.be/ZbghfMvnPZc>}}
+Pada bagian sebelumnya, saya membangun konsep dan opini mengenai pemanfaatan sistem informasi untuk membantu manusia mengelola waktu dan fokus kerja. Untuk mendukung konsep dan opini tersebut, diperlukan pengetahuan yang terstruktur agar solusi yang dirancang tidak bersifat asumtif, melainkan berbasis pemahaman yang benar terhadap realitas.
+
+**Hakikat Pengetahuan dalam Konteks Produktivitas**
+
+Menurut saya, pengetahuan dalam konteks ini adalah deskripsi bahasa tentang realitas kerja manusia, baik sebagai individu maupun sebagai bagian dari sistem sosial. Manusia bekerja di dalam lingkungan alam (waktu, energi, keterbatasan fisik) dan lingkungan sosial (tuntutan kerja, budaya produktivitas, teknologi).
+
+Dalam rekayasa sistem informasi untuk produktivitas, pengetahuan yang terlibat mencakup:
+
+* Pengetahuan alam, seperti keterbatasan energi manusia, waktu, dan kapasitas fokus.
+* Pengetahuan sosial, seperti kebiasaan kerja, tekanan organisasi, dan norma produktivitas.
+* Pengetahuan aplikatif, yaitu bagaimana sistem informasi menjembatani manusia dengan teknologi untuk mengurangi beban kerja dan kehilangan fokus.
+
+Masalah produktivitas pada dasarnya muncul ketika manusia tidak mampu memindahkan beban pekerjaan dari kondisi tidak terstruktur menuju kondisi yang lebih terkelola.
+
+**Klasifikasi Pengetahuan Berdasarkan Taksonomi Bloom**
+
+Pengetahuan tentang sistem informasi dan produktivitas dapat diklasifikasikan ke dalam beberapa level Taksonomi Bloom sebagai berikut:
+
+* Level 1 – Remember : Mengetahui definisi produktivitas, sistem informasi, manajemen waktu, dan fokus kerja.
+
+* Level 2 – Understand : Memahami bahwa sistem informasi merupakan alat yang membantu manusia mengorganisasi aktivitas dan informasi kerja.
+
+* Level 3 – Apply : Mampu menggunakan aplikasi pencatat aktivitas atau jadwal untuk mengatur pekerjaan sehari-hari.
+
+* Level 4 – Analyze : Menganalisis mengapa seseorang tetap tidak produktif meskipun menggunakan banyak aplikasi produktivitas.
+
+* Level 5 – Synthesize : Menyusun pendekatan sistem informasi yang menggabungkan pencatatan aktivitas, refleksi, dan fleksibilitas kerja.
+
+* Level 6 – Evaluate : Menilai apakah suatu sistem produktivitas benar-benar membantu manusia atau justru menambah tekanan mental.
+
+* Level 7 – Create : Merancang sistem informasi baru yang berfungsi sebagai alat refleksi, bukan alat kontrol, sesuai dengan kebutuhan pengguna.
+
+Dengan demikian, pengetahuan tidak berhenti pada hafalan atau penggunaan alat, tetapi mencapai kemampuan merancang solusi baru.
+
+**Peta Pengetahuan dalam Konteks Rekayasa Produktivitas**
+
+Dalam topik ini, pengetahuan dapat divisualisasikan ke dalam dua jenis peta pengetahuan:
+
+**1. Peta Pengetahuan Primitif**
+
+Peta ini berisi pengetahuan dasar seperti:
+
+* Definisi produktivitas
+* Konsep sistem informasi
+* Prinsip manajemen waktu dan fokus
+
+Peta ini bersifat hierarkis dan berfungsi sebagai fondasi pemahaman, terutama pada level Remember dan Understand.
+
+**2. Peta Pengetahuan Aplikatif / Pemecahan Masalah**
+
+Peta ini menggambarkan proses:
+
+* Mengidentifikasi masalah produktivitas
+* Menganalisis pola kerja manusia
+* Menentukan peran sistem informasi
+* Merancang solusi berbasis refleksi dan fleksibilitas
+
+Peta ini bersifat dinamis dan berorientasi pada proses pemecahan masalah, mencakup level Apply hingga Create.
+
+**Produk Pengetahuan**
+
+Sebagai hasil dari pemahaman ini, pengetahuan diwujudkan dalam bentuk produk pengetahuan, seperti:
+
+* Peta pengetahuan primitif tentang sistem informasi dan produktivitas
+* Peta pemecahan masalah untuk mengelola waktu dan fokus kerja
+* Jurnal reflektif tentang pengalaman penggunaan sistem produktivitas
+
+Produk-produk ini menunjukkan bahwa pengetahuan tidak hanya dipahami, tetapi juga diterapkan dan direfleksikan.
+
+**Penutup**
+
+Dengan demikian, pengetahuan dalam topik ini dapat dipandang sebagai cetak biru berpikir yang memungkinkan manusia memanfaatkan sistem informasi untuk mengurangi beban kerja dan meningkatkan kesadaran terhadap penggunaan waktu. Pengetahuan yang terstruktur inilah yang menjadi dasar bagi konsep, opini, dan solusi rekayasa yang bermakna.

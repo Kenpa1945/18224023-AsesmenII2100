@@ -1,5 +1,17 @@
-## UAS-3 My Opinions
+## UAS-2 My Opinions: Opini tentang Peran Sistem Informasi dalam Mengelola Produktivitas Manusia
 
-SApa itu beropini? [Opini Berpengaruh](BM%20Opini.mp4)
+Pada bagian sebelumnya, saya membangun konsep tentang pemanfaatan sistem informasi untuk mengumpulkan data aktivitas harian guna mengurangi kekacauan waktu dan hilangnya fokus. Konsep tersebut saya lihat sebagai kerangka berpikir, bukan solusi teknis yang langsung jadi.
 
-Bagiamana menjaadi menarik? [Menjadi Menarik](./Interesting.mp4)
+Berdasarkan konsep itu, opini saya adalah bahwa sistem informasi dapat membantu meningkatkan produktivitas manusia, tetapi hanya jika digunakan sebagai alat refleksi, bukan alat kontrol.
+
+Opini ini terbentuk dari beberapa unsur. Dari sisi informasi, banyak sistem produktivitas menawarkan fitur pencatatan, pengingat, dan analisis waktu. Dari sisi pengalaman, saya melihat bahwa orang yang terlalu bergantung pada jadwal dan notifikasi justru sering merasa tertekan dan kehilangan fleksibilitas. Dari sisi nilai, saya menilai bahwa kesadaran terhadap cara menggunakan waktu lebih penting daripada sekadar efisiensi. Sementara dari sisi perasaan, penggunaan sistem yang terlalu kaku sering menimbulkan kelelahan mental.
+
+Dari sudut pandang saya, masalah utama bukan terletak pada kurangnya teknologi, melainkan pada cara teknologi itu membentuk perilaku. Sistem informasi yang baik seharusnya membantu manusia memahami pola kerjanya sendiri, bukan memaksanya untuk selalu aktif dan produktif sepanjang waktu.
+
+Saya menyadari bahwa opini ini bersifat kontekstual, dibentuk oleh posisi saya sebagai pengguna teknologi yang hidup di lingkungan dengan tuntutan produktivitas tinggi. Oleh karena itu, saya tidak menganggap pendapat ini berlaku untuk semua orang. Dalam konteks tertentu, seperti organisasi yang membutuhkan konsistensi tinggi, sistem yang lebih ketat justru mungkin lebih efektif.
+
+Saya juga siap mengubah atau memperhalus opini ini. Jika saya menemukan pendekatan sistem informasi yang mampu menjaga keseimbangan antara struktur dan kebebasan, maka opini saya bisa bergeser. Bahkan saat ini pun, saya mempersempit pendapat saya: sistem informasi seharusnya membimbing, bukan mengendalikan.
+
+Ketika menghadapi pendapat yang berbeda—misalnya anggapan bahwa semakin detail sistem produktivitas maka semakin baik hasilnya—saya berusaha menempatkan kedua pendapat berdampingan. Saya mencoba memahami perbedaan nilai dan pengalaman yang melatarbelakangi pandangan tersebut, dan jika tidak tercapai kesepakatan, saya menerima adanya perbedaan sudut pandang.
+
+Bagi saya, opini yang baik bukanlah opini yang kaku, melainkan opini yang sadar akan keterbatasannya dan siap disesuaikan. Inilah yang menurut saya mencerminkan beautiful mind: berpikir dengan dasar, bersikap dengan sadar, dan terbuka terhadap perubahan.

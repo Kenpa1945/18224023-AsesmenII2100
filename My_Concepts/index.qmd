@@ -1,6 +1,38 @@
-# UAS-1 My Concepts
-Mau hidup epik ? [Write your Life Story](lifestory.pdf)
+# My Masterpiece: Konsep Pemanfaatan Sistem Informasi untuk Mengelola Waktu dan Produktivitas di Kehidupan Modern
 
-Apa itu berkonsep? 
+Beberapa waktu terakhir, saya menyadari bahwa banyak orang merasa sibuk sepanjang hari, tetapi tetap merasa tidak produktif. Tugas menumpuk, jadwal berantakan, dan waktu terasa selalu kurang. Masalahnya bukan karena kurang bekerja keras, tetapi karena sulit mengelola waktu dan fokus secara konsisten.
+Dari pengamatan tersebut, saya mulai berpikir: bagaimana jika sistem dan teknologi informasi tidak hanya mencatat aktivitas, tetapi membantu manusia mengarahkan energinya secara lebih sadar?
 
-{{< video https://youtu.be/QVfUlVBO80U?si=yM6q_rwV9rcDBbu7>}}
+Dari sini, saya membangun sebuah konsep:
+mengumpulkan informasi tentang aktivitas harian [K] untuk mengurangi beban kekacauan waktu dan kehilangan fokus [B].
+
+Konsep ini bukan solusi teknis yang lengkap, melainkan kerangka berpikir yang mengarahkan cara melihat masalah produktivitas.
+
+Dari konsep tersebut, lahirlah beberapa ide praktis:
+
+**1. Pemetaan aktivitas harian secara sederhana**
+
+Sistem mencatat aktivitas utama pengguna tanpa detail berlebihan, sehingga orang dapat melihat ke mana waktu mereka sebenarnya habis.
+
+**2. Prioritas berbasis energi, bukan hanya jadwal**
+
+Alih-alih hanya mengatur jam, sistem membantu pengguna mengenali kapan mereka paling fokus dan kapan mereka sebaiknya beristirahat.
+
+**3. Pengingat kontekstual, bukan alarm kaku**
+
+Pengingat diberikan berdasarkan pola kebiasaan, bukan sekadar waktu, agar tidak terasa mengganggu.
+
+**4. Refleksi singkat di akhir hari**
+
+Pengguna diajak melihat satu atau dua hal penting yang sudah dilakukan, bukan daftar panjang yang melelahkan.
+
+**5. Fleksibel untuk berbagai peran**
+
+Konsep ini bisa diterapkan untuk mahasiswa, pekerja, atau individu dengan rutinitas berbeda tanpa harus mengubah struktur dasarnya.
+
+Melalui konsep ini, satu gagasan inti dapat menghasilkan banyak pendekatan praktis tanpa kehilangan arah. Saya tidak perlu merancang semua fitur sejak awal. Cukup dengan satu konsep yang jelas, ide-ide lain dapat tumbuh secara alami sesuai kebutuhan.
+
+Secara sederhana, cara saya membangun konsep ini adalah:
+**mengamati masalah nyata, mengidentifikasi beban utama, melihat kekuatan yang tersedia melalui sistem informasi, lalu merumuskan konsep sebagai induk dari berbagai solusi praktis.**
+
+Konsep inilah yang kemudian menjadi fondasi berpikir, bukan solusi instan, tetapi sumber berkelanjutan untuk menghasilkan ide-ide baru.
