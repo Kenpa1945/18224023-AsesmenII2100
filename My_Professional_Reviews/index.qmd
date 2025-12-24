@@ -1,2 +1,7 @@
 ## UAS-5 My Professional Reviews
-Untuk melAkukan review, seperti pada [pendekatan AI](../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf), kita membutuhkan rubrik
+
+Pada bagian ini, saya menyajikan hasil penilaian UAS yang dilakukan melalui dua pendekatan. Pertama, saya melakukan penilaian mandiri dengan bantuan AI untuk menilai kesesuaian karya dengan rubrik yang digunakan.
+
+Kedua, saya melakukan penilaian terhadap karya rekan secara manual. Proses ini membantu saya memahami standar kualitas dari sudut pandang penilai dan membandingkannya dengan hasil evaluasi diri.
+
+[Peer Assesment](https://docs.google.com/spreadsheets/d/19vRkt6zQWc0vivwbg121L-N8hnXuFQj3/edit?usp=sharing&ouid=106778708826016151060&rtpof=true&sd=true)
